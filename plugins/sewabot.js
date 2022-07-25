@@ -24,7 +24,7 @@ Rp. 10.000 Pulsa
 Rp. 20.000 Dana
 Rp. 20.000 Pulsa
 
-wa.me/${owner[0]}
+wa.me/625760165634
 *Bukan Bot!!!*
 *Owner ${conn.user.name}*
 `,
