@@ -24,7 +24,7 @@ global.APIs = { // API Prefix
   restapi: 'https://x-restapi.herokuapp.com'
 }
 global.APIKeys = { // APIKey Here
-  'https://api.zeeoneofc.xyz': 'apikey'
+  // 'https://api.zeeoneofc.xyz': 'apikey'
   'https://api.xteam.xyz': 'apikeyaine',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://api.neoxr.eu.org/': 'jVEMyB2ITJ',
