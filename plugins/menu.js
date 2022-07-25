@@ -53,8 +53,8 @@ Hai, %ucapan %name! 👋
   body: ' • %cmd %islimit %isPremium',
   footer: '\n',
   after: `*Made by ♡*
-*%npmname* | %version
-${'```%npmdesc```'}
+*V-BOTZ* | %version
+${'```BOTS WITH 200+ FEATURES```'}
 `,
 }
 let handler = async (m, { conn, usedPrefix: _p }) => {
